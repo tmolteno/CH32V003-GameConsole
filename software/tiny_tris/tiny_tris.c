@@ -119,7 +119,6 @@ int main(void)
 {
     // Setup
     JOY_init();
-    JOY_DLY_ms(10);
 
     // Loop
     while (1) {
